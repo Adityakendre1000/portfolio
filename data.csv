@@ -1,0 +1,11 @@
+title,description,url,image
+Leetcode Solutions,Solutions to the leetcode questions I have solved,https://github.com/Adityakendre1000/Leetcode-solutions,leetcode.png
+Todo App,A distraction-free web app to help you focus on creating and completing tasks.,https://github.com/Adityakendre1000/todo_app,1.png
+Portfolio Website,A website built entirely in Python to showcase coding projects and apps.,https://pythonhow.com,2.png
+Webcam Motion Detector,A program that monitors the computer webcam when a new object enters the view and plots a time graph.,https://github.com/Adityakendre1000/Motion_Detection_OpenCV,11.png
+Library Management System,A sql program that is designed to manage library.,https://github.com/Adityakendre1000/Library_Management,17.png
+Blink Counter,A program that counts the number of times a person in front of webcam blinked using opencv.,https://github.com/Adityakendre1000/Blink_Counter,blink.jpeg
+Uber Trip Analysis,Analysis of uber data derieving useful insights.,https://github.com/Adityakendre1000/Uber_Trips_Analysis,uber.jpeg
+QrCode Generator,A simple program that generates the qrcode for given link.,https://github.com/Adityakendre1000/QrCode_Generator,qr.jpeg
+Robotic Arm with Autonomous Colour detectiona and sorting,A autonomous robotic arm with colour detection and sorting of objects.,https://github.com/Adityakendre1000/robo_arm_colour_detection,roboarm.png
+Ball Game,A simple ball game made in unity where you have to avoid obstacles.,https://github.com/Adityakendre1000/Ball_Game,unity.png
